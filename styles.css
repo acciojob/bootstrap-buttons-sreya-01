@@ -1,2 +1,8 @@
-
 /* Your CSS Code here. */
+#button-5{
+	display: block;
+	width: 100%;
+}
+#button-1{
+	background-color: darkblue;
+}
